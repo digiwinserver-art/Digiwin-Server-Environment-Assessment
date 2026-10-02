@@ -1,3 +1,9 @@
+## 2.1.14
+
+- EFAttach、EFAttachTemp、EFERPPicUrl 目錄不再列入注意事項，掃描結果仍保留。
+- ERP 公司別與資料庫健檢可點欄位標題排序；Ctrl＋點標題可選取整欄。
+- IWC 開頭資料庫顯示為 ERPIWC，V-POINT 開頭顯示為 BI。
+
 # 更新紀錄
 
 本頁只列出使用者可感受到的功能與操作變更；完整下載檔案與雜湊請查看各版本 Release。
