@@ -1,3 +1,7 @@
+## 2.1.15
+
+- ERP INI／DMS.ini 的目錄總大小改為整數 MB，保留千分位，例如 17,539.41 MB 顯示為 17,539 MB。
+
 ## 2.1.14
 
 - EFAttach、EFAttachTemp、EFERPPicUrl 目錄不再列入注意事項，掃描結果仍保留。
