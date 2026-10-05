@@ -1,3 +1,7 @@
+## 2.1.16
+
+- EFAttach、EFAttachTemp、EFERPPicUrl 未找到 IIS 路徑時不再顯示，找到路徑後仍顯示目錄統計。
+
 ## 2.1.15
 
 - ERP INI／DMS.ini 的目錄總大小改為整數 MB，保留千分位，例如 17,539.41 MB 顯示為 17,539 MB。
